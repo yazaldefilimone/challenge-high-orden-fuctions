@@ -17,6 +17,8 @@ isso ajuda a encotrar solucoes muito rapido  para o problema 🤓🔥🐺
 🤓🔥 Fique avontade para acrecentar algumas coisas aqui lebrando
 se voce ja é ***Junior*** podes fazer os ***Chalenge*** se quiser ***lebrar e viver***
 
+Esta a procura de mas desafios JavaScript recomendo este site [DevChalenge](https://www.devchallenge.com.br/)
 
 
-feito 💜 com por [ Yazalde Felimone 🤓🐺 ](https://github.com/yazaldefilimonepinto);
+
+feito 💜 com por [ Yazalde Felimone 🤓🐺 ](https://github.com/yazaldefilimonepinto)
